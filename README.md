@@ -13,14 +13,7 @@
 - [Swagger UI](https://github.com/swagger-api/swagger-ui)
 
 # How to run locally
-
-1. [Download and install the .NET Core SDK](https://dotnet.microsoft.com/download)
-    * If you don't have `localdb` available on your system, [Download and install SQL Server Express](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb)
-```sh
-dotnet build
-dotnet run --project Microsoft.DSX.ProjectTemplate.API
-```
-2. Run as IIS Express and then the project will open automatic `https://localhost:44379/scripts/`.
+1. Run as IIS Express and then the project will open automatic `https://localhost:44379/scripts/`.
 
 # To-Do back-end
 
