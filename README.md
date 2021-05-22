@@ -18,8 +18,7 @@
 # To-Do back-end
 
 As you can see, try to test basic authentication and then take a chance to test everything else.
-
-![20210522_162437](https://user-images.githubusercontent.com/14084041/119231743-57b5ad00-bb1a-11eb-8f3b-04b022c23abe.gif)
+ 
 
  
 
