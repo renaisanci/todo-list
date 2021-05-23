@@ -9,6 +9,7 @@
 - [Repository](https://martinfowler.com/eaaCatalog/repository.html)
 - [AutoMapper](https://automapper.org/)
 - [DRY](https://zapier.com/blog/dont-repeat-yourself/)
+- [DIP](https://martinfowler.com/articles/injection.html)
 - [DDD]( https://martinfowler.com/tags/domain%20driven%20design.html) A little bit
 - [Basic authentication](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/basic-authentication) 
 - [Swagger UI](https://github.com/swagger-api/swagger-ui)
