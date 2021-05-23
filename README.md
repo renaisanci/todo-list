@@ -7,8 +7,9 @@
 
 - [ASP.NET Core 3.1](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
 - [Repository](https://martinfowler.com/eaaCatalog/repository.html)
-- [DRY]( Don't repeat yourself 
-- [DDD]( https://martinfowler.com/tags/domain%20driven%20design.html) 
+- [AutoMapper](https://automapper.org/)
+- [DRY] (https://zapier.com/blog/dont-repeat-yourself/)
+- [DDD]( https://martinfowler.com/tags/domain%20driven%20design.html) A little bit
 - [Basic authentication](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/basic-authentication) 
 - [Swagger UI](https://github.com/swagger-api/swagger-ui)
 
